@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=cnorick&count_private=true&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=cnorick&count_private=true&show_icons=true&hide=contribs&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **cnorick/cnorick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
