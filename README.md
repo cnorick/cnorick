@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Nathan. I'm a Web UI Developer. Check me out at [nathanorick.com](https://nathanorick.com).
+
 [![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=cnorick&count_private=true&show_icons=true&hide=contribs&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnorick&count_private=true&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
